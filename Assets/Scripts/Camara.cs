@@ -1,9 +1,12 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
 public class Camara : MonoBehaviour
 {
     public Transform player; // Reference to the player's Transform
     public Vector3 offset; // Offset from the player (set this in the Inspector to maintain the desired relative position)
+    
 
     void LateUpdate()
     {

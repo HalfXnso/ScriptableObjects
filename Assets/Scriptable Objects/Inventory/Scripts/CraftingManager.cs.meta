@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c24ab36fec67a014d9f7a79f3d08f068
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerInventory: {fileID: 11400000, guid: 741c52f6288cda14eb62b8af91f32658, type: 2}
+  - recipe: {fileID: 11400000, guid: 402ffb64e65cacb47ab98adabd90b514, type: 2}
+  - craftButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

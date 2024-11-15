@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b8c59e7dc0cbf14090c7a4641b8dedc, type: 3}
+  m_Name: Master Ball
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 6442697275404251012, guid: 57fb201b09a447f42ae94f8dc815725f, type: 3}
+  type: 0
+  description: 
+  objetosNecesarios: []
